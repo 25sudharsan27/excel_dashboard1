@@ -13,8 +13,8 @@
 
 ## Tools Used in Excel
 
-- **Pivot Chart*
-- **Pivot Table*
+- **Pivot Chart**
+- **Pivot Table**
 - **Charts**
 - **Slicer**
 - **Report Conection in Slicer**
