@@ -7,9 +7,9 @@
 ## Features
 
 - **Choose Particular Year for Analyze**
-- **Choose and Analyze Particular Region**
-- **Choose and Analyze Particular Category**
-- **Choose and Analyze Particular Retailer**
+- **Analyze data at Particular Regions**
+- **Analyze data at Particular Category**
+- **Analyze data at Particular Retailer**
 
 ## Tools Used in Excel
 
@@ -28,6 +28,8 @@
 2. Open Dashboard.xlsx
 
 ## Screenshots
+
+
 
 <img src="dashboard.png">
 
